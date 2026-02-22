@@ -4,27 +4,24 @@
     "version": "9da64b5c"
   },
   "products": [
-    {"id": "prod-9da64b5c-001", "name": "Laptop Pro 15", "category": "electronics", "price": 1299.99, "stock": 12, "rating": 4.5},
-    {"id": "prod-9da64b5c-002", "name": "Wireless Mouse", "category": "electronics", "price": 25.50, "stock": 150, "rating": 4.2},
-    {"id": "prod-9da64b5c-003", "name": "Bluetooth Headphones", "category": "electronics", "price": 199.99, "stock": 85, "rating": 4.6},
-    {"id": "prod-9da64b5c-004", "name": "Smartphone X", "category": "electronics", "price": 899.99, "stock": 40, "rating": 4.7},
-    {"id": "prod-9da64b5c-005", "name": "4K Monitor", "category": "electronics", "price": 399.99, "stock": 25, "rating": 4.4},
-
-    {"id": "prod-9da64b5c-006", "name": "Office Chair", "category": "furniture", "price": 150.00, "stock": 60, "rating": 4.1},
-    {"id": "prod-9da64b5c-007", "name": "Standing Desk", "category": "furniture", "price": 450.00, "stock": 20, "rating": 4.3},
-    {"id": "prod-9da64b5c-008", "name": "Bookshelf", "category": "furniture", "price": 120.00, "stock": 35, "rating": 4.0},
-    {"id": "prod-9da64b5c-009", "name": "Table Lamp", "category": "furniture", "price": 45.00, "stock": 80, "rating": 4.2},
-
-    {"id": "prod-9da64b5c-010", "name": "Running Shoes", "category": "fashion", "price": 90.00, "stock": 100, "rating": 4.5},
-    {"id": "prod-9da64b5c-011", "name": "Leather Jacket", "category": "fashion", "price": 250.00, "stock": 30, "rating": 4.6},
-    {"id": "prod-9da64b5c-012", "name": "Wrist Watch", "category": "fashion", "price": 180.00, "stock": 50, "rating": 4.4},
-    {"id": "prod-9da64b5c-013", "name": "Backpack", "category": "fashion", "price": 70.00, "stock": 120, "rating": 4.3},
-
-    {"id": "prod-9da64b5c-014", "name": "Coffee Maker", "category": "appliances", "price": 85.00, "stock": 45, "rating": 4.2},
-    {"id": "prod-9da64b5c-015", "name": "Air Fryer", "category": "appliances", "price": 120.00, "stock": 55, "rating": 4.5},
-    {"id": "prod-9da64b5c-016", "name": "Vacuum Cleaner", "category": "appliances", "price": 200.00, "stock": 25, "rating": 4.4},
-    {"id": "prod-9da64b5c-017", "name": "Blender", "category": "appliances", "price": 60.00, "stock": 70, "rating": 4.1},
-    {"id": "prod-9da64b5c-018", "name": "Microwave Oven", "category": "appliances", "price": 150.00, "stock": 40, "rating": 4.3}
+    {"id": "prod-9da64b5c-001", "name": "Basic Item 1", "category": "books", "price": 323.16, "stock": 5, "rating": 2.9},
+    {"id": "prod-9da64b5c-002", "name": "Basic Item 2", "category": "electronics", "price": 404.83, "stock": 117, "rating": 3.1},
+    {"id": "prod-9da64b5c-003", "name": "Basic Item 3", "category": "books", "price": 379.14, "stock": 136, "rating": 4.8},
+    {"id": "prod-9da64b5c-004", "name": "Pro Item 4", "category": "clothing", "price": 320.11, "stock": 51, "rating": 3},
+    {"id": "prod-9da64b5c-005", "name": "Elite Item 5", "category": "electronics", "price": 330.3, "stock": 151, "rating": 4},
+    {"id": "prod-9da64b5c-006", "name": "Standard Item 6", "category": "clothing", "price": 295.54, "stock": 110, "rating": 1.4},
+    {"id": "prod-9da64b5c-007", "name": "Premium Item 7", "category": "sports", "price": 329.57, "stock": 118, "rating": 1.7},
+    {"id": "prod-9da64b5c-008", "name": "Premium Item 8", "category": "electronics", "price": 291.69, "stock": 57, "rating": 4},
+    {"id": "prod-9da64b5c-009", "name": "Elite Item 9", "category": "electronics", "price": 159.37, "stock": 19, "rating": 4},
+    {"id": "prod-9da64b5c-010", "name": "Pro Item 10", "category": "home", "price": 133.42, "stock": 3, "rating": 3.1},
+    {"id": "prod-9da64b5c-011", "name": "Pro Item 11", "category": "clothing", "price": 287.49, "stock": 91, "rating": 5},
+    {"id": "prod-9da64b5c-012", "name": "Elite Item 12", "category": "home", "price": 344.84, "stock": 87, "rating": 2.3},
+    {"id": "prod-9da64b5c-013", "name": "Standard Item 13", "category": "books", "price": 197.04, "stock": 31, "rating": 1.9},
+    {"id": "prod-9da64b5c-014", "name": "Elite Item 14", "category": "sports", "price": 469.32, "stock": 131, "rating": 3.4},
+    {"id": "prod-9da64b5c-015", "name": "Premium Item 15", "category": "electronics", "price": 41.9, "stock": 118, "rating": 1.3},
+    {"id": "prod-9da64b5c-016", "name": "Basic Item 16", "category": "clothing", "price": 179.35, "stock": 31, "rating": 2.8},
+    {"id": "prod-9da64b5c-017", "name": "Elite Item 17", "category": "home", "price": 321.89, "stock": 134, "rating": 2},
+    {"id": "prod-9da64b5c-018", "name": "Elite Item 18", "category": "clothing", "price": 53.03, "stock": 128, "rating": 1}
   ],
   "aggregations": {
     "electronics": {
