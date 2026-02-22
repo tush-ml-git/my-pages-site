@@ -4,27 +4,27 @@
     "version": "9da64b5c"
   },
   "products": [
-    {"id": 1, "name": "Laptop Pro 15", "category": "electronics", "price": 1299.99, "stock": 12, "rating": 4.5},
-    {"id": 2, "name": "Wireless Mouse", "category": "electronics", "price": 25.50, "stock": 150, "rating": 4.2},
-    {"id": 3, "name": "Bluetooth Headphones", "category": "electronics", "price": 199.99, "stock": 85, "rating": 4.6},
-    {"id": 4, "name": "Smartphone X", "category": "electronics", "price": 899.99, "stock": 40, "rating": 4.7},
-    {"id": 5, "name": "4K Monitor", "category": "electronics", "price": 399.99, "stock": 25, "rating": 4.4},
+    {"id": "prod-9da64b5c-001", "name": "Laptop Pro 15", "category": "electronics", "price": 1299.99, "stock": 12, "rating": 4.5},
+    {"id": "prod-9da64b5c-002", "name": "Wireless Mouse", "category": "electronics", "price": 25.50, "stock": 150, "rating": 4.2},
+    {"id": "prod-9da64b5c-003", "name": "Bluetooth Headphones", "category": "electronics", "price": 199.99, "stock": 85, "rating": 4.6},
+    {"id": "prod-9da64b5c-004", "name": "Smartphone X", "category": "electronics", "price": 899.99, "stock": 40, "rating": 4.7},
+    {"id": "prod-9da64b5c-005", "name": "4K Monitor", "category": "electronics", "price": 399.99, "stock": 25, "rating": 4.4},
 
-    {"id": 6, "name": "Office Chair", "category": "furniture", "price": 150.00, "stock": 60, "rating": 4.1},
-    {"id": 7, "name": "Standing Desk", "category": "furniture", "price": 450.00, "stock": 20, "rating": 4.3},
-    {"id": 8, "name": "Bookshelf", "category": "furniture", "price": 120.00, "stock": 35, "rating": 4.0},
-    {"id": 9, "name": "Table Lamp", "category": "furniture", "price": 45.00, "stock": 80, "rating": 4.2},
+    {"id": "prod-9da64b5c-006", "name": "Office Chair", "category": "furniture", "price": 150.00, "stock": 60, "rating": 4.1},
+    {"id": "prod-9da64b5c-007", "name": "Standing Desk", "category": "furniture", "price": 450.00, "stock": 20, "rating": 4.3},
+    {"id": "prod-9da64b5c-008", "name": "Bookshelf", "category": "furniture", "price": 120.00, "stock": 35, "rating": 4.0},
+    {"id": "prod-9da64b5c-009", "name": "Table Lamp", "category": "furniture", "price": 45.00, "stock": 80, "rating": 4.2},
 
-    {"id": 10, "name": "Running Shoes", "category": "fashion", "price": 90.00, "stock": 100, "rating": 4.5},
-    {"id": 11, "name": "Leather Jacket", "category": "fashion", "price": 250.00, "stock": 30, "rating": 4.6},
-    {"id": 12, "name": "Wrist Watch", "category": "fashion", "price": 180.00, "stock": 50, "rating": 4.4},
-    {"id": 13, "name": "Backpack", "category": "fashion", "price": 70.00, "stock": 120, "rating": 4.3},
+    {"id": "prod-9da64b5c-010", "name": "Running Shoes", "category": "fashion", "price": 90.00, "stock": 100, "rating": 4.5},
+    {"id": "prod-9da64b5c-011", "name": "Leather Jacket", "category": "fashion", "price": 250.00, "stock": 30, "rating": 4.6},
+    {"id": "prod-9da64b5c-012", "name": "Wrist Watch", "category": "fashion", "price": 180.00, "stock": 50, "rating": 4.4},
+    {"id": "prod-9da64b5c-013", "name": "Backpack", "category": "fashion", "price": 70.00, "stock": 120, "rating": 4.3},
 
-    {"id": 14, "name": "Coffee Maker", "category": "appliances", "price": 85.00, "stock": 45, "rating": 4.2},
-    {"id": 15, "name": "Air Fryer", "category": "appliances", "price": 120.00, "stock": 55, "rating": 4.5},
-    {"id": 16, "name": "Vacuum Cleaner", "category": "appliances", "price": 200.00, "stock": 25, "rating": 4.4},
-    {"id": 17, "name": "Blender", "category": "appliances", "price": 60.00, "stock": 70, "rating": 4.1},
-    {"id": 18, "name": "Microwave Oven", "category": "appliances", "price": 150.00, "stock": 40, "rating": 4.3}
+    {"id": "prod-9da64b5c-014", "name": "Coffee Maker", "category": "appliances", "price": 85.00, "stock": 45, "rating": 4.2},
+    {"id": "prod-9da64b5c-015", "name": "Air Fryer", "category": "appliances", "price": 120.00, "stock": 55, "rating": 4.5},
+    {"id": "prod-9da64b5c-016", "name": "Vacuum Cleaner", "category": "appliances", "price": 200.00, "stock": 25, "rating": 4.4},
+    {"id": "prod-9da64b5c-017", "name": "Blender", "category": "appliances", "price": 60.00, "stock": 70, "rating": 4.1},
+    {"id": "prod-9da64b5c-018", "name": "Microwave Oven", "category": "appliances", "price": 150.00, "stock": 40, "rating": 4.3}
   ],
   "aggregations": {
     "electronics": {
